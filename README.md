@@ -111,9 +111,9 @@ MIT License - See [LICENSE](LICENSE) for details
 ```
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
-║      🤖  WELCOME TO SUPERLAB  🤖                       ║
+║      🤖  WELCOME TO SUPERLAB  🤖                      ║
 ║                                                        ║
-║   Intelligent Agents. Beautiful Design. Pure Code.    ║
+║   Intelligent Agents. Beautiful Design. Pure Code.     ║
 ║                                                        ║
 ║   ⭐ Star this repository                             ║
 ║   🔀 Fork and create                                  ║
